@@ -1,7 +1,0 @@
-[ALERT] Speed anomaly detected at time 8 : 210 km/h
-[ALERT] RPM anomaly detected at time 9 : 12000 RPM
-[ALERT] Impossible driver input detected at time 9
-[ALERT] Sudden speed spike detected at time 8.0
-[ALERT] Sudden speed spike detected at time 9.0
-[ALERT] RPM anomaly detected at time 9.0 : 15000.0 RPM
-[ALERT] Impossible driver input detected at time 9.0
